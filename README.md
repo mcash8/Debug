@@ -1,0 +1,2 @@
+# Debug
+Debugging FFNN stuff
